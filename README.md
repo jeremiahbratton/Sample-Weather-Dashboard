@@ -18,7 +18,7 @@ A sample React app that pulls the weather from api.open-meteo.com. I also pull a
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/jeremiahbratton/Sample-Weather-Dashboard.git
 cd weather-widget
 ```
 
