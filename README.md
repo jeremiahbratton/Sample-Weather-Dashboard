@@ -38,7 +38,7 @@ The application will open in your default browser at `http://localhost:3000`.
 
 - React 18
 - TypeScript
-- TanStack Query (React Query)
+- TanStack Query
 - CSS Modules
 - Open-Meteo API
 - Lorem Picsum API
